@@ -27,7 +27,7 @@ Em geral, o versionamento do código foi tranquilo. A parte mais desafiadora foi
 * **Marcos J. Lemes**
 
   * E-mail: `marcos.jlf@aluno.ifsc.edu.br`
-* **Bernado Vieira Souza**
+* **Bernado Vieira de Souza**
 
-  * E-mail: *(a adicionar)*
+  * E-mail: `bernardo.v07@aluno.ifsc.edu.br`
 
